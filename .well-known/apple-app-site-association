@@ -4,14 +4,20 @@
     "details": [
       {
         "appID": "WQXWDTCCK3.com.mycareforce",
-        "paths": ["/*"]
+        "paths": [
+          "/"
+        ]
       }
     ]
   },
   "activitycontinuation": {
-    "apps": ["WQXWDTCCK3.com.mycareforce"]
+    "apps": [
+      "WQXWDTCCK3.com.mycareforce"
+    ]
   },
   "webcredentials": {
-    "apps": ["WQXWDTCCK3.com.mycareforce"]
+    "apps": [
+      "WQXWDTCCK3.com.mycareforce"
+    ]
   }
 }
